@@ -1,2 +1,2 @@
 # SpringRestAPI
-RestfulAPIs for Spring Boot 
+RestfulAPIs for Spring Boot
